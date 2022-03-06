@@ -1,0 +1,8 @@
+words = input("Enter some words ")
+words_list = words.split(",")
+def length(words_list):
+    for i in range(words_list):
+        length = length.words_list
+        if length[0:]>length[:-1]:
+            print(words_list[0])
+length(words_list)
